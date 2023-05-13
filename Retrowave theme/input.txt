@@ -1,0 +1,6 @@
+teacher1: 36: Hue: 3000.0
+worker3: 30: DaNang: 3500.0
+worker1: 30: DaNang: 4500.0
+teacher2: 36: Hue: 8000.0
+worker2: 30: DaNang: 6500.0
+teacher3: 36: Hue: 7000.0
